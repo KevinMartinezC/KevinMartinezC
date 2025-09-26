@@ -65,13 +65,6 @@ I'm a passionate **Android Developer** who loves crafting beautiful, performant 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinMartinezC&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🎯 Current Goals
 
