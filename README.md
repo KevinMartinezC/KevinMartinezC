@@ -15,7 +15,7 @@ I'm a passionate **Android Developer** who loves crafting beautiful, performant 
 - 👯 **Looking to collaborate on:** Open source Android projects and innovative mobile solutions
 - 💬 **Ask me about:** Android development, Kotlin, UI/UX design, and mobile app optimization
 - 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kevinmrtinez) or [Email me](mailto:ceronk003@gmail.com)
-- ⚡ **Fun fact:** I debug with println statements and I'm not ashamed! 😄
+
 
 ---
 
