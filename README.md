@@ -14,7 +14,7 @@ I'm a passionate **Android Developer** who loves crafting beautiful, performant 
 - 🌱 **Currently learning:** Kotlin Multiplatform, Animation, advanced Android architecture and swift
 - 👯 **Looking to collaborate on:** Open source Android projects and innovative mobile solutions
 - 💬 **Ask me about:** Android development, Kotlin, UI/UX design, and mobile app optimization
-- 📫 **How to reach me:** [Connect with me on LinkedIn](www.linkedin.com/in/kevinmrtinez) or [Email me](mailto:ceronk003@gmail.com)
+- 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kevinmrtinez) or [Email me](mailto:ceronk003@gmail.com)
 - ⚡ **Fun fact:** I debug with println statements and I'm not ashamed! 😄
 
 ---
@@ -86,7 +86,7 @@ I'm a passionate **Android Developer** who loves crafting beautiful, performant 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="www.linkedin.com/in/kevinmrtinez">
+  <a href="https://www.linkedin.com/in/kevinmrtinez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ceronk003@gmail.comcom">
