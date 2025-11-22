@@ -16,7 +16,6 @@ I'm a passionate **Android Developer** who loves crafting beautiful, performant 
 - 💬 **Ask me about:** Android development, Kotlin, UI/UX design, and mobile app optimization
 - 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kevinmrtinez) or [Email me](mailto:ceronk003@gmail.com)
 
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -26,8 +25,10 @@ I'm a passionate **Android Developer** who loves crafting beautiful, performant 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
 🏗️ Architecture & Libraries
